@@ -9,7 +9,6 @@ A comprehensive Java-based desktop application that simulates a real-world banki
 
 ## 📋 Table of Contents
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [System Requirements](#-system-requirements)
 - [Installation & Setup](#-installation--setup)
 - [Tech Stack](#-tech-stack)
@@ -50,13 +49,6 @@ A comprehensive Java-based desktop application that simulates a real-world banki
   - 👥 User management
   - 📊 System statistics
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="/screenshots/login.png" alt="Login Screen" width="300"/>
-  <img src="/screenshots/dashboard.png" alt="Dashboard" width="300"/>
-  <img src="/screenshots/transaction.png" alt="Transaction Screen" width="300"/>
-</div>
 
 ## 💻 System Requirements
 
@@ -112,7 +104,7 @@ CREATE TABLE users (
 ### Application Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashuuu14/Bank-Management-System.git
+   git clone https://github.com/chirag21r/Bank-Management-System.git
    ```
 2. Open the project in IntelliJ IDEA or your preferred IDE
 3. Add the following JAR files to your project's classpath:
@@ -370,6 +362,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <b>Developed with ❤️ by [Your Name]</b><br>
-  <i>For any inquiries, please reach out at: your.email@example.com</i>
+  <b>Developed with ❤️ </b>
 </div>
